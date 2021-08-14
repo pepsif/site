@@ -1,0 +1,7 @@
+.nav-menu li:nth-child(1) {
+    box-shadow: 1px 1px 1px 12px #203748;
+    background-color: #203748;
+    border-radius: 35px;
+    /* width:80px; */
+    transition: 0.1s;
+}
