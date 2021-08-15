@@ -105,25 +105,25 @@
     border-radius:5px;
 }
 
-.form-input:nth-child(1) {
+.form input:nth-child(1) {
     color: red;
     font-size: 15px;
     padding-left: 15px;
 }
 
-.form-input:nth-child(2) {
+.form input:nth-child(2) {
     font-size: 15px;
     padding-left: 15px;
 }
 
-.form-input:nth-child(3) {
+.form textarea:nth-child(3) {
     font-size: 16px;
     padding-left: 15px;
     padding-top:8px;
     width: 192px;
     height:130px;
 }
-.form-input:nth-child(4) {
+.form input:nth-child(4) {
    font-size:15px;
    width:110px;
    height:34px;
